@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Thomas Seaver </h1>
 
-- 🔭 I’m a full stack JS developer currently working at IBM
+- 🔭 I’m a full stack JS developer currently working at Spear AI
 
 - 👨‍💻 I build in React, Node, Typescript, and whatever happens to be piqueing my interest
 
