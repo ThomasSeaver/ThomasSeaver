@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hi, I'm Thomas Seaver </h1>
+<h1 align="center">👋 Hi, I'm Thomas Seaver</h1>
 
-- 🔭 I’m a full stack JS developer currently working at Spear AI
+- 🔭 Full-stack TypeScript developer @ Spear AI  
 
-- 👨‍💻 I build in React, Node, Typescript, and whatever happens to be piqueing my interest
+- 🛠️ Working mainly with React, Node.js, Postgraphile, Postgres — always exploring new tech  
 
-- 🐝 I graduated from Georgia Tech in 2020 with a Bachelor's in Computer Science (Go Jackets!)
+- 🎓 B.S. Computer Science, Georgia Tech ’20 - Media / Systems Architecture
 
-- 🧑‍💻 Solving problems with computing is my passion, from large-scale consumer facing web applications to tiny embedded systems
+- 💡 Passionate about scalable web systems, embedded programming, and shiny new stuff  
 
-- 🐱 My interests include cats, (playing/breaking/building) videogames, the climate, and throwing myself at new languages / frameworks
+- 🐾 Outside of code: cats, running, gaming (playing, building & breaking things!), climate advocacy, and experimenting with languages/frameworks  
 
-- 📫 Best way to get my attention is with a quick email
+- 📫 Reach me best via email! (hello@thomasseaver.com)
